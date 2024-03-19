@@ -26,5 +26,6 @@ createApp({
         
        };
        //console.log(this.randomListUserEmail);
+       //this.getUserEmail()
     }
 }).mount('#app')
