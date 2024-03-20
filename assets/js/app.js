@@ -22,7 +22,7 @@ createApp({
     mounted(){
         //console.log(this.randomListUserEmail);
        for (let i = 0; i < 10; i++) {
-        const element = this.getUserEmail();
+        this.getUserEmail();
         
        };
        //console.log(this.randomListUserEmail);
